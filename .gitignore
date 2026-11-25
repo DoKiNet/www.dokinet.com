@@ -1,0 +1,8 @@
+# Work files of the project: they stay on the Mac and never reach GitHub
+# or the published site (decision 4 of REGISTRO.md).
+CLAUDE.md
+REGISTRO.md
+.claude/
+
+# System files of macOS.
+.DS_Store
